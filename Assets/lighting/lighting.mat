@@ -24,7 +24,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _FBX_TYPE: 0
-    - _VertexAnimationScale: 0.1
+    - _VertexAnimationScale: 0.01
     - _VertexAnimationSpeed: 0.3
     m_Colors:
     - _VertexAnimationOffset: {r: 0, g: 0, b: 0, a: 0}
